@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 
+# The humor arises from the jarring contrast between clinical biometric surveillance and tender romance.
 LINE: str = (
     "I noticed your elevated cortisol and empty calendar; "
     "may I hold your hand until your biometrics return to baseline?"
